@@ -1,0 +1,165 @@
+# Copyright (C) 2012 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/amnl-ideal-using-mollie\n"
+"POT-Creation-Date: 2012-05-10 12:17:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: src/WooCommerce/IDeal/Gateway.php:34 src/WooCommerce/IDeal/Gateway.php:96
+msgid "iDEAL"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:69
+msgid "Enable/Disable"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:71
+msgid "Enable iDEAL"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:75
+msgid "Partner ID"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:77
+msgid "Your personal Partner ID / Customer ID."
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:81
+msgid "Profile Key"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:83
+msgid "Optional Mollie payment-profile key."
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:87
+msgid "Test Mode"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:89
+msgid "Enable testmode"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:93
+msgid "Title"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:95
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:99
+msgid "Description"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:101
+msgid ""
+"Give the customer instructions about paying with iDEAL and the additional "
+"terms."
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:102
+msgid ""
+"With iDEAL you can easily pay online in the secure environment of your own "
+"bank."
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:105
+msgid "Transaction Description"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:107
+msgid ""
+"This will be shown on the bank statement of the customer. Add <code>%%order</"
+"code> where you wish to display the order number."
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:108
+msgid "Order %%order"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:121
+msgid "iDEAL (via Mollie)"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:122
+msgid "Accept iDEAL payments using Mollie's service."
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:132
+msgid "Gateway Disabled"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:132
+msgid "Mollie does not support your store currency."
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:204
+msgid "Could not create payment."
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:218
+msgid "Awaiting iDEAL payment and authorization"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:241
+msgid ""
+"We are experiencing some difficulties whilst contacting the payment service "
+"provider. Please try again in a moment."
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:254
+msgid "Bank"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:256
+msgid "Choose your bank"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:277
+msgid "You must select your bank to use the iDEAL payment option."
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:287
+msgid "Invalid Bank for iDEAL payment supplied."
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:301
+msgid "Your payment is currently being processed."
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:322
+msgid "Check transaction"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:322
+msgid "Request a status update from Mollie"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:353
+msgid "Bank Account:"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:354
+msgid "Holder:"
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:361
+msgid "iDEAL payment has been cancelled."
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:364
+msgid "iDEAL payment failed."
+msgstr ""
+
+#: src/WooCommerce/IDeal/Gateway.php:367
+msgid "iDEAL payment expired."
+msgstr ""

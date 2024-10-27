@@ -1,0 +1,161 @@
+# Copyright (C) 2012 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: AMNL iDeal using Mollie\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/amnl-ideal-using-mollie\n"
+"POT-Creation-Date: 2012-05-10 12:17:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-05-10 14:33+0100\n"
+"Last-Translator: Arno Moonen <info@arnom.nl>\n"
+"Language-Team: Arno Moonen <info@arnom.nl>\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+
+#: src/WooCommerce/IDeal/Gateway.php:34
+#: src/WooCommerce/IDeal/Gateway.php:96
+msgid "iDEAL"
+msgstr "iDEAL"
+
+#: src/WooCommerce/IDeal/Gateway.php:69
+msgid "Enable/Disable"
+msgstr "In-/uitschakelen"
+
+#: src/WooCommerce/IDeal/Gateway.php:71
+msgid "Enable iDEAL"
+msgstr "iDEAL inschakelen"
+
+#: src/WooCommerce/IDeal/Gateway.php:75
+msgid "Partner ID"
+msgstr "Partner ID"
+
+#: src/WooCommerce/IDeal/Gateway.php:77
+msgid "Your personal Partner ID / Customer ID."
+msgstr "Je persoonlijke Partner ID / klant ID."
+
+#: src/WooCommerce/IDeal/Gateway.php:81
+msgid "Profile Key"
+msgstr "Profiel Key"
+
+#: src/WooCommerce/IDeal/Gateway.php:83
+msgid "Optional Mollie payment-profile key."
+msgstr "Optionele Mollie betaalprofiel key."
+
+#: src/WooCommerce/IDeal/Gateway.php:87
+msgid "Test Mode"
+msgstr "Test Modus"
+
+#: src/WooCommerce/IDeal/Gateway.php:89
+msgid "Enable testmode"
+msgstr "Testmodus activeren"
+
+#: src/WooCommerce/IDeal/Gateway.php:93
+msgid "Title"
+msgstr "Titel"
+
+#: src/WooCommerce/IDeal/Gateway.php:95
+msgid "This controls the title which the user sees during checkout."
+msgstr "Hier mee bepaalt u welke titel de eindgebruiker ziet bij het afrekenen."
+
+#: src/WooCommerce/IDeal/Gateway.php:99
+msgid "Description"
+msgstr "Omschrijving"
+
+#: src/WooCommerce/IDeal/Gateway.php:101
+msgid "Give the customer instructions about paying with iDEAL and the additional terms."
+msgstr "Geef instructies aan uw klant betreffende het betalen via iDEAL en de bijbehorende voorwaarden."
+
+#: src/WooCommerce/IDeal/Gateway.php:102
+msgid "With iDEAL you can easily pay online in the secure environment of your own bank."
+msgstr "Met iDeal betaalt u eenvoudig online via de vertrouwde omgeving van uw eigen bank."
+
+#: src/WooCommerce/IDeal/Gateway.php:105
+msgid "Transaction Description"
+msgstr "Transactie omschrijving"
+
+#: src/WooCommerce/IDeal/Gateway.php:107
+msgid "This will be shown on the bank statement of the customer. Add <code>%%order</code> where you wish to display the order number."
+msgstr "Dit zal zichtbaar zijn op het bankafschrift van de klant. Voeg <code>%%order</code> in op de plaats waar u het ordernummer wilt tonen."
+
+#: src/WooCommerce/IDeal/Gateway.php:108
+msgid "Order %%order"
+msgstr "Order %%order"
+
+#: src/WooCommerce/IDeal/Gateway.php:121
+msgid "iDEAL (via Mollie)"
+msgstr "iDEAL (via Mollie)"
+
+#: src/WooCommerce/IDeal/Gateway.php:122
+msgid "Accept iDEAL payments using Mollie's service."
+msgstr "Accepteer iDEAL betalingen via de diensten van Mollie."
+
+#: src/WooCommerce/IDeal/Gateway.php:132
+msgid "Gateway Disabled"
+msgstr "Betalingsmethode Uitgeschakeld"
+
+#: src/WooCommerce/IDeal/Gateway.php:132
+msgid "Mollie does not support your store currency."
+msgstr "Mollie ondersteunt de valuta die gebruikt wordt in uw winkel niet."
+
+#: src/WooCommerce/IDeal/Gateway.php:204
+msgid "Could not create payment."
+msgstr "Kon geen betaling aanmaken."
+
+#: src/WooCommerce/IDeal/Gateway.php:218
+msgid "Awaiting iDEAL payment and authorization"
+msgstr "Wachten op betaling via iDEAL"
+
+#: src/WooCommerce/IDeal/Gateway.php:241
+msgid "We are experiencing some difficulties whilst contacting the payment service provider. Please try again in a moment."
+msgstr "Op dit moment ervaren we wat technische problemen bij onze verzoeken aan de betalingsprovider. Probeert u het zometeen nogmaals, alstublieft."
+
+#: src/WooCommerce/IDeal/Gateway.php:254
+msgid "Bank"
+msgstr "Bank"
+
+#: src/WooCommerce/IDeal/Gateway.php:256
+msgid "Choose your bank"
+msgstr "Kies uw bank"
+
+#: src/WooCommerce/IDeal/Gateway.php:277
+msgid "You must select your bank to use the iDEAL payment option."
+msgstr "U dient uw bank te selecteren om gebruik te maken van iDEAL."
+
+#: src/WooCommerce/IDeal/Gateway.php:287
+msgid "Invalid Bank for iDEAL payment supplied."
+msgstr "Ongeldige Bank gekozen voor iDEAL."
+
+#: src/WooCommerce/IDeal/Gateway.php:301
+msgid "Your payment is currently being processed."
+msgstr "Uw betaling wordt momenteel verwerkt."
+
+#: src/WooCommerce/IDeal/Gateway.php:322
+msgid "Check transaction"
+msgstr "Controleer betaling"
+
+#: src/WooCommerce/IDeal/Gateway.php:322
+msgid "Request a status update from Mollie"
+msgstr "Vraag de actuele status op bij Mollie"
+
+#: src/WooCommerce/IDeal/Gateway.php:353
+msgid "Bank Account:"
+msgstr "Rekeningnummer:"
+
+#: src/WooCommerce/IDeal/Gateway.php:354
+msgid "Holder:"
+msgstr "Op naam van:"
+
+#: src/WooCommerce/IDeal/Gateway.php:361
+msgid "iDEAL payment has been cancelled."
+msgstr "iDEAL betaling is geannuleerd."
+
+#: src/WooCommerce/IDeal/Gateway.php:364
+msgid "iDEAL payment failed."
+msgstr "iDEAL transactie is mislukt."
+
+#: src/WooCommerce/IDeal/Gateway.php:367
+msgid "iDEAL payment expired."
+msgstr "iDEAL transactie is verlopen."
+
